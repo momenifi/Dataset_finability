@@ -6,7 +6,7 @@ import sys
 import xml.etree.ElementTree as ET
 
 
-api_key="Pwaw88cME6mmha8yCLXWdATbPTssDMyJYfBJ"
+api_key="xxxx"
 country_codes = ['de', 'at', 'ch', 'it', 'es', 'fr', 'pl', 'nl', 'uk', 'us', 'se', 'br', 'tr', 'be', 'ie', 'pt', 'dk', 'no', 'fi', 'gr', 'hu', 'sk', 'cz', 'au', 'jp', 'ca', 'ro', 'hr', 'bg', 'si']
 
 category = 'economic' #or 'social'
